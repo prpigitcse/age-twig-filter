@@ -1,0 +1,5 @@
+name: 'Age Twig Filter'
+type: module
+description: 'Provides age twig filter which generate age from dob.'
+core: 8.x
+package: 'Custom'

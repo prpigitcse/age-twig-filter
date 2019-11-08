@@ -1,0 +1,6 @@
+services:
+  age_twig_filter.twig.extension:
+    class: Drupal\age_twig_filter\TwigExtension\AgeTwigExtension
+    arguments: ['@renderer']
+    tags:
+      - { name: twig.extension }
