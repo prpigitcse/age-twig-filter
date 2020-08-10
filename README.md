@@ -1,6 +1,6 @@
 # Age Twig Filter
 
-For more information about this module visit https://techtrip.co.in/create-custom-twig-filter-drupal-8
+For more information about this module visit https://techtrip.co.in/how-to/create-custom-twig-filter-drupal-8/
 
 ## Usage
 ```
